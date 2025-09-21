@@ -16,9 +16,7 @@
 - 💬 Ask me about **3D Printing**
 
 - 📫 How to reach me **harishj1501@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/harsh/OneDrive/Documents/Jaithan%20Personal/External%20PDF%20&%20Files/Harish%20J%20Resume%203rd%20Yr.pdf](file:///C:/Users/harsh/OneDrive/Documents/Jaithan%20Personal/External%20PDF%20&%20Files/Harish%20J%20Resume%203rd%20Yr.pdf)
-
+  
 - ⚡ Fun fact **I know TECH**
 
 <h3 align="left">Connect with me:</h3>
